@@ -1,0 +1,22 @@
+{
+  "ebac_sports": [
+    {
+      "id": 1,
+      "nome": "Camisa Nike",
+      "preco": 199.9,
+      "imagem": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 2,
+      "nome": "Tênis Adidas",
+      "preco": 349.9,
+      "imagem": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 3,
+      "nome": "Bermuda Puma",
+      "preco": 129.9,
+      "imagem": "https://via.placeholder.com/150"
+    }
+  ]
+}
